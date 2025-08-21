@@ -62,11 +62,6 @@ The project consists of:
    terraform apply   # Apply the changes
    ```
 
-4. Once deployed, the application will be available at:
-   - Web Interface: `http://localhost:5000`
-   - Add Items: `http://localhost:5000/add`
-   - View Items: `http://localhost:5000/show`
-
 ## Features
 
 - Add items to the list through a web interface
